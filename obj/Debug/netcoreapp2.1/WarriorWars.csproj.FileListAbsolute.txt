@@ -1,0 +1,11 @@
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\bin\Debug\netcoreapp2.1\WarriorWars.deps.json
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\bin\Debug\netcoreapp2.1\WarriorWars.runtimeconfig.json
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\bin\Debug\netcoreapp2.1\WarriorWars.runtimeconfig.dev.json
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\bin\Debug\netcoreapp2.1\WarriorWars.dll
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\bin\Debug\netcoreapp2.1\WarriorWars.pdb
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\obj\Debug\netcoreapp2.1\WarriorWars.csprojAssemblyReference.cache
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\obj\Debug\netcoreapp2.1\WarriorWars.csproj.CoreCompileInputs.cache
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\obj\Debug\netcoreapp2.1\WarriorWars.AssemblyInfoInputs.cache
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\obj\Debug\netcoreapp2.1\WarriorWars.AssemblyInfo.cs
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\obj\Debug\netcoreapp2.1\WarriorWars.dll
+C:\dev\workspace\dotnet\OOPTutorial\WarriorWars\obj\Debug\netcoreapp2.1\WarriorWars.pdb
